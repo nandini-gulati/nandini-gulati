@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 👩‍💻 Aspiring Full Stack Developer | 🎨 Creative Designer | 💡 Tech Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nandini-gulati2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-KisanCart-9cf?style=flat&logo=vercel)](https://kisancart.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-KisanCart-9cf?style=flat&logo=vercel)](https://nandinigulati.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-nandini--gulati-black?style=flat&logo=github)](https://github.com/nandini-gulati)
 
 </div>
