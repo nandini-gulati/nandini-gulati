@@ -6,7 +6,7 @@
 👩‍💻 Aspiring Full Stack Developer | 🎨 Creative Designer | 💡 Tech Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nandini-gulati2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-KisanCart-9cf?style=flat&logo=vercel)](https://nandinigulati.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nandinigulati-9cf?style=flat&logo=vercel)](https://nandinigulati.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-nandini--gulati-black?style=flat&logo=github)](https://github.com/nandini-gulati)
 
 </div>
@@ -51,8 +51,7 @@
 ## 🌸 Let's Connect!
 
 - 📧 Email: [nandinigulati23405@gmail.com](mailto:nandinigulati23405@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/nandini-gulati2005](https://www.linkedin.com/in/nandini-gulati2005)  
-- 💖 GitHub: [github.com/nandini-gulati](https://github.com/nandini-gulati)
+- 💼 LinkedIn: [linkedin.com/in/nandini-gulati2005](https://www.linkedin.com/in/nandini-gulati2005) 
 
 ---
 
