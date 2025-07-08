@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**nandini-gulati/nandini-gulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🌸✨ Hi there! I'm Nandini Gulati ✨🌸  
+👩‍💻 Aspiring Full Stack Developer | 🎨 Creative Designer | 💡 Tech Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nandini-gulati2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-KisanCart-9cf?style=flat&logo=vercel)](https://kisancart.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-nandini--gulati-black?style=flat&logo=github)](https://github.com/nandini-gulati)
+
+</div>
+
+---
+
+## 🌼 About Me
+
+- 🎓 B.Tech in CSE – Full Stack AI @ UPES, Dehradun (2023–Present)  
+- 💼 Software Developer Intern @ CRIS – building better user experiences and real-time systems  
+- 🌱 Forever learning & exploring the intersection of tech, creativity, and community  
+- 🌍 Passionate about building solutions that matter  
+- 🎨 When I'm not coding, I’m designing, painting, or making cute digital art ✨
+
+---
+
+## 💻 Tech Stack
+
+```plaintext
+💬 Languages:       Python | Java | C | JavaScript
+🎨 Frontend:        React.js | Tailwind CSS | Bootstrap | HTML | CSS
+🛠️ Backend:        Node.js | Express.js | WebSocket | DWR
+🗃️ Databases:       MongoDB | MySQL
+🧠 Tools & Design:  Figma | Adobe | Canva | Procreate
+```
+
+---
+
+## 🧩 My Projects
+
+### 🌾 [KisanCart – Empowering Farmers](https://github.com/nandini-gulati/kisancart)
+🛒 A farmer-to-consumer portal connecting local produce directly to buyers.  
+🧑‍🌾 Built with **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**.  
+🌐 [Live Demo](https://kisancart.vercel.app)
+
+### 🎬 CinemaSpice – Movie Booking Web App
+🍿 Responsive movie ticket booking with genre filters & interactive UI.  
+🛠️ Built using **HTML**, **CSS**, **JS**, and **Bootstrap**.
+
+---
+
+## 🌸 Let's Connect!
+
+- 📧 Email: [nandinigulati23405@gmail.com](mailto:nandinigulati23405@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/nandini-gulati2005](https://www.linkedin.com/in/nandini-gulati2005)  
+- 💖 GitHub: [github.com/nandini-gulati](https://github.com/nandini-gulati)
+
+---
+
+<div align="center">
+
+✨ Thanks for stopping by! Keep blooming and building ✨  
+🌷 Made with love and creativity 💫  
+
+</div>
