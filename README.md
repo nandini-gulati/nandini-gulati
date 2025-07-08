@@ -45,6 +45,7 @@
 ### 🎬 CinemaSpice – Movie Booking Web App
 🍿 Responsive movie ticket booking with genre filters & interactive UI.  
 🛠️ Built using **HTML**, **CSS**, **JS**, and **Bootstrap**.
+🌐 [Live Demo](https://cinema-spice.vercel.app/)
 
 ---
 
