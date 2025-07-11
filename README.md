@@ -1,6 +1,17 @@
 # 🌸✨ Hi there! I'm Nandini Gulati ✨🌸  
 👩‍💻 Aspiring Full Stack Developer | 🎨 Creative Designer | 💡 Tech Enthusiast  
 
+---
+
+## 🌼 About Me
+
+- 🎓 B.Tech in CSE – Full Stack AI @ UPES, Dehradun (2023–Present)  
+- 💼 Software Developer Intern @ CRIS – building better user experiences and real-time systems  
+- 🌱 Forever learning & exploring the intersection of tech, creativity, and community  
+- 🌍 Passionate about building solutions that matter  
+- 🎨 When I'm not coding, I’m designing, painting, or making cute digital art ✨
+
+---
 
 </p>
 <p>
@@ -20,12 +31,12 @@
 
 <div align="center">
 
+----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nandini-gulati2005)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nandinigulati-9cf?style=flat&logo=vercel)](https://nandinigulati.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-nandini--gulati-black?style=flat&logo=github)](https://github.com/nandini-gulati)
 
-</div>
 
 ---
 
