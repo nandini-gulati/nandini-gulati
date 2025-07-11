@@ -1,6 +1,7 @@
-# 🌸✨ Hi there! I'm Nandini Gulati ✨🌸  
+<div align="center"># 
+ 🌸✨ Hi there! I'm Nandini Gulati ✨🌸  
 👩‍💻 Aspiring Full Stack Developer | 🎨 Creative Designer | 💡 Tech Enthusiast  
-<div align="center">
+
 ---
 
 ## 🌼 About Me
@@ -29,14 +30,14 @@
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
 
-<div align="center">
+
 
 ----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nandini-gulati2005)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nandinigulati-9cf?style=flat&logo=vercel)](https://nandinigulati.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-nandini--gulati-black?style=flat&logo=github)](https://github.com/nandini-gulati)
-
+<div align="center">
 ----
 
 ## 🌸 Let's Connect!
@@ -46,7 +47,7 @@
 
 ---
 
-<div align="center">
+
 
 ✨ Thanks for stopping by! Keep blooming and building ✨  
 🌷 Made with love and creativity 💫  
